@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/login007/static/css/main.ff3e4119.chunk.css",
+    "main.js": "/login007/static/js/main.fb145937.chunk.js",
+    "main.js.map": "/login007/static/js/main.fb145937.chunk.js.map",
+    "runtime-main.js": "/login007/static/js/runtime-main.fb55f380.js",
+    "runtime-main.js.map": "/login007/static/js/runtime-main.fb55f380.js.map",
+    "static/js/2.1a49c073.chunk.js": "/login007/static/js/2.1a49c073.chunk.js",
+    "static/js/2.1a49c073.chunk.js.map": "/login007/static/js/2.1a49c073.chunk.js.map",
+    "index.html": "/login007/index.html",
+    "precache-manifest.5033c6aabb046157603fb2162eb4572c.js": "/login007/precache-manifest.5033c6aabb046157603fb2162eb4572c.js",
+    "service-worker.js": "/login007/service-worker.js",
+    "static/css/main.ff3e4119.chunk.css.map": "/login007/static/css/main.ff3e4119.chunk.css.map",
+    "static/js/2.1a49c073.chunk.js.LICENSE.txt": "/login007/static/js/2.1a49c073.chunk.js.LICENSE.txt",
+    "static/media/chicken-and-fries.jpg": "/login007/static/media/chicken-and-fries.a8950e97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb55f380.js",
+    "static/js/2.1a49c073.chunk.js",
+    "static/css/main.ff3e4119.chunk.css",
+    "static/js/main.fb145937.chunk.js"
+  ]
+}
